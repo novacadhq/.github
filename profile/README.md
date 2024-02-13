@@ -10,15 +10,13 @@ working with both ground and air ambulance dispatching.
 
 ### Our Mission
 
-> Give us a bit, we are still in the startup phase
+Our mission is to empower first responders with cutting-edge Computer Aided Dispatch solutions, providing reliable, innovative, and user-friendly software. Our commitment to customer-centricity, integrity, and continuous improvement drives exceptional support, creating a safer world through swift emergency response.
 
-<!--
+### Our Vision
 
-**Here are some ideas to get you started:**
+Our vision is to be the leading provider of innovative and reliable CAD technology, setting new standards in public safety software. We aspire to continuously enhance our software, improving the efficiency of emergency response, and ultimately, saving lives.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Our Values
+
+Our commitment to excellence is driven by values that prioritize innovation, reliability, and customer empowerment for first responders. We adapt to evolving needs, engage with communities, embrace diversity, and prioritize environmental responsibility. Our culture fosters professional growth, accountability, and above all, safety.
+
